@@ -1,5 +1,8 @@
 # AppStartFaster
 
+https://www.bilibili.com/video/BV1ov4y1g7ED?p=4&spm_id_from=pageDriver&vd_source=dfec3fabc0b96ea1a862cc73cba8e6da
+对应视频学习
+
 [![](https://jitpack.io/v/aiceking/AppStartFaster.svg)](https://jitpack.io/#aiceking/AppStartFaster)
 
 **AppStartFaster**：包含两部分，一部分是冷启动任务分发，一部分是Multdex冷启动优化  
